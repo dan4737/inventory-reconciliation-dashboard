@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# NOTE: inventory.db is intentionally COMMITTED so the deployed app has data.
+# It is fully reproducible via `python data/seed_data.py`.
+
+# Claude Code local settings
+.claude/
