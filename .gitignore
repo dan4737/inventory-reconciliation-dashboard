@@ -21,3 +21,6 @@ env/
 
 # Claude Code local settings
 .claude/
+
+# Personal interview prep (keep local, do not publish)
+NOTES.md
