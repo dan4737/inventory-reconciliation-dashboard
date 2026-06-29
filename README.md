@@ -4,6 +4,8 @@ An interactive dashboard that reconciles a brewery's **Warehouse Management
 System (WMS)** against **SAP** for month-end reporting and tracks the operational
 KPIs an inventory analyst owns — every panel backed by real SQL.
 
+**PS: Claude was Used Strictly for the Frontend - to be able to spin up the dashboard by Pullling from the SQL and Python data infrastructure i built.**
+
 **[🔗 Live Demo](https://inventory-reconciliation-dashboard.streamlit.app/)** · *(deployed free on Streamlit Community Cloud — no login required)*
 
 ---
