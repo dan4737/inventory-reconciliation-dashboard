@@ -35,10 +35,17 @@ non-technical stakeholder can actually use.
 
 ## Screenshots
 
-> _Add after deploying._
->
-> `![KPI cards & reconciliation](docs/screenshot-1.png)`
-> `![In-transit aging & packaging loss](docs/screenshot-2.png)`
+**KPI cards & WMS-vs-SAP reconciliation**
+
+![KPI cards and reconciliation](docs/screenshot-1-kpis-reconciliation.png)
+
+**In-transit aging & expedite queue**
+
+![In-transit aging and expedite queue](docs/screenshot-2-intransit-aging.png)
+
+**Returnable packaging loss trend**
+
+![Returnable packaging loss trend](docs/screenshot-3-packaging-loss.png)
 
 ## How it works
 
